@@ -6,7 +6,7 @@ title: "Welcome to Raaj's blog"
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- Profile Image -->
-  <img src="/assets/images/dog man.png" alt="My photo"
+  <img src="/assets/images/dog_man.jpg" alt="My photo"
        style="width: 180px; border-radius: 10px;">
 
   <!-- Bio Section -->
