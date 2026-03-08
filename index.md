@@ -6,14 +6,14 @@ title: "Welcome to Raaj's blog"
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- Profile Image -->
-  <img src="/assets/images/me.jpg" alt="My photo" 
+  <img src="/assets/images/dog man.png" alt="My photo"
        style="width: 180px; border-radius: 10px;">
 
   <!-- Bio Section -->
   <div style="max-width: 500px;">
     <h2>Hello, I'm Raaj</h2>
     <p>
-      I'm a developer and tech enthusiast who enjoys building clean, simple, and elegant
+      I'm a DevOps Engineer and tech enthusiast who enjoys building clean, simple, and elegant
       digital experiences. This site is my personal space where I share thoughts, projects,
       and anything else I find interesting.
     </p>
@@ -39,7 +39,7 @@ title: "Welcome to Raaj's blog"
 </a>
 
 <!-- Button to Resume -->
-<a href="/assets/resume.pdf" style="
+<a href="/assets/resume/dummy_resume.txt" style="
   display: inline-block;
   padding: 10px 18px;
   background: #555;
